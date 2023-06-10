@@ -1,0 +1,8 @@
+# Ignore modules
+node_modules
+
+# ignore file 
+
+# ignore file pattern
+*.d.ts
+*.md
